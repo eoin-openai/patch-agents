@@ -1,0 +1,4 @@
+openai-agents==0.0.15
+openai==1.80.0
+pydantic==2.11.4
+pandas==2.3.1
